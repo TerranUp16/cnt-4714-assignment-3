@@ -62,3 +62,6 @@ powershell.exe prepareDB.ps1
 ```
 
 This script will connect to the container, create a `project3` database, load four tables (and their data) into `project3`, create a `client@%` MySQL user (whose password is `client`), and grant `client@%` `SELECT` access to all tables in the `project3` database.
+
+## Sample Screenshot
+![Query performed on sample data](https://github.com/TerranUp16/cnt-4714-assignment-3/blob/main/screenshots/client_3c.png)
