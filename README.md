@@ -1,4 +1,5 @@
 # Assignment 3
+![Screenshot](https://github.com/TerranUp16/cnt-4714-assignment-3/blob/main/screenshots/start.png)
 This project was created under the direction of Dr. Mark Llewellyn for University of Central Florida course CNT-4714.
 
 This project calls for a Java implementation of a GUI MySQL client. The project only requires access to a `project3` databse with predefined DDL.
