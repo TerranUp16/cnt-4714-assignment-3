@@ -1,0 +1,1 @@
+docker exec -t mysql8 bash -c 'echo -e "[client]\\nuser=root\\npassword=M7vDRWBJW1EAGzih" > /root/.my.cnf; mysql < /root/project3bdscript.sql'
